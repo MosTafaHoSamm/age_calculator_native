@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Age Calculator</string>
+    <string name="press">إضغط هنا</string>
+    <string name="press2">press Here</string>
 </resources>
